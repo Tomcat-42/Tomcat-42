@@ -53,7 +53,7 @@ TOMCAT0X42(1)                                      Tomcat0x42                   
     <a href="mailto:pablohuggem@gmail.com">GMAIL</a>, <a href="https://linkedin.com/in/pablo-alessandro-santos-hugen">LINKEDIN</a>, <a href="mailto:pabloashugen@protonmail.com">PROTONMAIL</a>
 
 <b>SEE ALSO</b>
-    <a href="https://www.linkedin.com/in/pablo-alessandro-santos-hugen/">LINKEDIN(1)</a>, <a href="https://github.com/Tomcat-42">GITHUB(1)</a>, <a href="https://twitter.com/HugenPablo">TWITTER(1)</a>, <a href="https://www.reddit.com/user/Tomcat_42">REDDIT(1)</a>, <a href="">BLOG(1)</a>
+    <a href="https://www.linkedin.com/in/pablo-alessandro-santos-hugen/">LINKEDIN(1)</a>, <a href="https://github.com/Tomcat-42">GITHUB(1)</a>, <a href="https://twitter.com/HugenPablo">TWITTER(1)</a>, <a href="https://www.reddit.com/user/Tomcat_42">REDDIT(1)</a>, <a href="https://tomcat0x42.me/">HOMEPAGE(1)</a>
 
 Pablo A.S. Hugen                                       2023                                        TOMCAT0X42(1)
 </pre>
