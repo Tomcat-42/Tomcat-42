@@ -29,14 +29,14 @@ TOMCAT0X42(1)                                      Tomcat0x42                   
     has fun doing.
 
 <b>ENVIRONMENT</b>
-    <a href="https://kernel.org/">LINUX KERNEL</a>=on
-    <a href="https://en.cppreference.com/w/c/language">C</a>=on
-    <a href="https://en.cppreference.com/w/cpp/23">C++23</a>=on
-    <a href="https://developer.nvidia.com/cuda-toolkit">CUDA</a>=on
-    <a href="https://www.rust-lang.org/">RUST</a>=on
-    <a href="https://www.python.org/">PYTHON</a>=on
-    <a href="https://www.gnu.org/software/bash/">BASH</a>=on
-    <a href="https://nasm.us/">x86_64 ASSEMBLY</a>=on
+    <a href="https://kernel.org/">LINUX KERNEL</a>=y
+    <a href="https://en.cppreference.com/w/c/language">C</a>=y
+    <a href="https://en.cppreference.com/w/cpp/23">C++23</a>=y
+    <a href="https://developer.nvidia.com/cuda-toolkit">CUDA</a>=y
+    <a href="https://www.rust-lang.org/">RUST</a>=y
+    <a href="https://www.python.org/">PYTHON</a>=y
+    <a href="https://www.gnu.org/software/bash/">BASH</a>=y
+    <a href="https://nasm.us/">x86_64 ASSEMBLY</a>=y
 
 <b>TOOLING</b>
     <a href="https://cmake.orh">CMAKE</a>, <a href="https://www.gnu.org/software/make/">MAKE</a>, <a href="http://https://git-scm.com/">GIT</a>, <a href="https://www.docker.com/">DOCKER</a>
