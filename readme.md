@@ -10,23 +10,17 @@ TOMCAT0X42(1)                                      Tomcat0x42                   
     <b>Linux</b>, <b>Assembly</b>, <b>Operational Systems in General</b>, <b>Python</b>, <b>Shell Scripting</b>,
     <b>Bash</b>, and <b>Embedded Systems</b>.
 
-<b>DESCRIPTION</b>
-    <b>Systems Engineer, Embedded Software Engineer and Computer Science undergraduate</b>, have strong
-    interests in <b>Low Level</b>, <b>Linux</b> and <b>Embedded Systems Programming</b> and a lot of curiosity
-    for new and exciting experiences. Extensive background in <b>computational simulation research</b> and
-    <b>embedded systems development</b>, researched his entire graduation around these topics, building a strong
-    experience in them.
+<b>DESCRIPTION</b> 
+    As a <b>Systems Engineer, Embedded Software Engineer</b>, and Computer Science undergraduate student, 
+    I have a strong interest in <b>Low Level, Linux and Embedded Systems Programming</b>, with a particular
+    focus on <b>C++ and Rust development</b>. With an extensive background in computational simulation research,
+    embedded systems development, and kernel development, I have built a solid foundation in these areas
+    throughout my academic and professional career.
 
-    Also, possessing around <b>3 years of corporative experience in web technologies</b>, developed a good amount
-    of knowledge about software engineering methodologies and processes. In spite of his Web Development
-    Background, changed his career target to an area that has more affinity and knowledge,
-    <b>systems and embedded programming</b>.
-
-    Finally, having an extensive background -- and his heart -- in <b>systems engineering</b>, wishes to find an
-    exciting company to contribute and learn a lot about this field. Its objectives include, but are
-    not restricted to, developing knowledge working with smart people aligned to his goals, working
-    in a company also aligned with his path, and mainly, working with something that he likes and
-    has fun doing.
+    In addition to my 3 years of corporate experience in web technologies, I have recently shifted my
+    career focus to systems and embedded programming, an area that aligns more closely with my skills 
+    and interests. I am eager to contribute to a dynamic company where I can further develop my knowledge
+    and skills in these areas.
 
 <b>ENVIRONMENT</b>
     <a href="https://kernel.org/">LINUX KERNEL</a>=y
