@@ -22,6 +22,16 @@ TOMCAT0X42(1)                                      Tomcat0x42                   
     and interests. I am eager to contribute to a dynamic company where I can further develop my knowledge
     and skills in these areas.
 
+    As a seasoned <b>systems engineer</b>, I currently specialize in the fields of digital signing, digital 
+    certificates, and cryptography, utilizing my expertise in C++ and Rust. This niche allows me to delve 
+    deep into complex and  challenging aspects of systems programming, providing a robust platform for 
+    innovation and problem-solving.
+
+    My career objective is to collaborate with a dynamic team in a forward-thinking company, where I
+    can both contribute significantly and continue learning in this specialized area. I am passionate 
+    about leveraging my skills in a role that not only aligns with my professional goals but also 
+    offers the satisfaction and enjoyment of working in a field I am deeply interested in.
+
 <b>ENVIRONMENT</b>
     <a href="https://kernel.org/">LINUX KERNEL</a>=y
     <a href="https://en.cppreference.com/w/c/language">C</a>=y
